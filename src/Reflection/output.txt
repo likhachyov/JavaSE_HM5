@@ -1,0 +1,3 @@
+Reflection.Examples.Man: John 39 years
+Reflection.Examples.Stone: Green 200 years
+Reflection.Examples.Tree: Willow 30 years
